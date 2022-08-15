@@ -1,0 +1,12 @@
+{
+  "name": "pfg",
+  "description": "A library for Provably Fair Gambling",
+  "author": "Or Weinberger <orweinberger@gmail.com> (https://brutebrothers.com)",
+  "version": "0.0.1",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "mocha": "^10.0.0"
+  },
+  "type": "commonjs"
+}
